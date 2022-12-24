@@ -91,3 +91,17 @@ Following are types of extensibility
 - Processes
 - User Interface
 - Well Integration 
+
+## Client Side vs Server Side vs Pre Rendering 
+
+### Client Side 
+- Browser Returns an Html Page of javascript
+- Every thing is compiled at the Client side using client browser
+- Initial Loading slow but then fast 
+- Useful in dynamic data
+### Server Side
+With old server-side rendering solutions, you built a web page—with PHP for example—the server compiled everything, included the data, and delivered a fully populated HTML page to the client. It was fast and effective.
+Initial loading is fast than slow
+Better seo 
+### Pre Rendering 
+- Starting page with static content then loads dynamic slowly
