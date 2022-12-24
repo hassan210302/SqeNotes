@@ -64,3 +64,30 @@ Cloud-native stack describes the layers of cloud-native technologies that develo
 - Runtime layer (This comprises cloud data storage, networking capability, and a container runtime such as containerd)
 - Orchestration and management layer (Responsible for integrating the various cloud components so that they function as a single unit)
 - Observability and analysis tools ( Observability and analysis tools monitor, evaluate, and improve the system health of cloud applications. )
+
+# Aws Services
+### Cloud Front 
+- Have edge locations
+- If data is already available at the edge location serve data quickly 
+- Else save data in the edge location 
+- Copies of data are available at different edge locations around the world
+
+### S3 Bucket 
+- Static web hosting 
+- store files of data 
+- scalable 
+- Version Controlling 
+
+## Extensibility 
+These are some ideal characteristics of Extensibility 
+1. Flexible
+2. Configurable 
+3. Customizable 
+4. Upgradeable 
+5. Integrated
+
+Following are types of extensibility 
+- Data model 
+- Processes
+- User Interface
+- Well Integration 
