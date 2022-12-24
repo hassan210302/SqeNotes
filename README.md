@@ -105,3 +105,12 @@ Initial loading is fast than slow
 Better seo 
 ### Pre Rendering 
 - Starting page with static content then loads dynamic slowly
+
+## Service Worker
+
+Service Worker is a script that works on browser background without user interaction independently. Also, It resembles a proxy that works on the user side. With this script, you can track network traffic of the page, manage push notifications and develop “offline first” web applications with Cache API.
+
+- Push Notification 
+- Cache
+- Network Traffic
+- Basis for PWA
